@@ -77,4 +77,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Built with ❤️ by [IdeaSpark Team]**
+**Built with ❤️ by Alhassan Abubakar Sadiq(Hassan)**
